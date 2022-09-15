@@ -1,4 +1,4 @@
-# NFFC (Nottingham Forest Football Club) Player Name API
+# NFFC (Nottingham Forest Football Club) Player Name API ⚽️
 
 This API allows one to search Nottingham Forest Football Club player's by their name, and return basic information on them.
 
@@ -33,6 +33,12 @@ node server.js
 ## Creator
 
 Stefan Taitano
+
+## Contributing
+
+- Fork this repository
+- Create a new branch for your work
+- Push up any changes to your branch, and open a pull request. Don't feel it needs to be perfect.
 
 ## Version History
 
